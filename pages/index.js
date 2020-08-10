@@ -7,7 +7,7 @@ import Date from '../components/date'
 
 
 
-export default function Home({ allPostsData }) {
+export defaulyt function Home({ allPostsData }) {
 	return (
 		<Layout home>
 			<Head>
